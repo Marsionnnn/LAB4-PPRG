@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Z1/Z1.csproj" />
   <Project Path="Z2/Z2.csproj" />
+  <Project Path="Z3/Z3.csproj" />
 </Solution>

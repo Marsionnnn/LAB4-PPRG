@@ -1,0 +1,15 @@
+Z:\LAB4-PPRG\Z3\bin\Debug\net10.0\Z3.exe
+Z:\LAB4-PPRG\Z3\bin\Debug\net10.0\Z3.deps.json
+Z:\LAB4-PPRG\Z3\bin\Debug\net10.0\Z3.runtimeconfig.json
+Z:\LAB4-PPRG\Z3\bin\Debug\net10.0\Z3.dll
+Z:\LAB4-PPRG\Z3\bin\Debug\net10.0\Z3.pdb
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.AssemblyInfoInputs.cache
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.AssemblyInfo.cs
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.csproj.CoreCompileInputs.cache
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.sourcelink.json
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.dll
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\refint\Z3.dll
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.pdb
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\Z3.genruntimeconfig.cache
+Z:\LAB4-PPRG\Z3\obj\Debug\net10.0\ref\Z3.dll
